@@ -1,0 +1,29 @@
+{
+  "tickers": [
+    {
+      "symbol": "TKVA",
+      "company_name": "Salspera",
+      "listing_date": "2026-03-02"
+    },
+    {
+      "symbol": "CAST",
+      "company_name": "FreeCast",
+      "listing_date": "2026-03-03"
+    },
+    {
+      "symbol": "MMED",
+      "company_name": "MiniMed Group",
+      "listing_date": "2026-03-05"
+    },
+    {
+      "symbol": "FPS",
+      "company_name": "Forgent Power Solutions",
+      "listing_date": "2026-03-15"
+    },
+    {
+      "symbol": "GENB",
+      "company_name": "Generate Biomedicines",
+      "listing_date": "2026-02-26"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+kafka-python
+openai
+posthog
+feedparser
+newsapi-python
+python-dotenv
+apscheduler
